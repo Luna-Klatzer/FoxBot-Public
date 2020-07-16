@@ -20,7 +20,7 @@ try:
         return current_time
     current_time = ctime()
 
-    TOKEN = 'ENTER_TOKEN'
+    TOKEN = 'NzI3MjM0ODcyMzU5MjU2MDk0.XxDIiw.bXBIY25n0DPKDYz2djfI2aNpHWE'
 
     command_prefix = "."
     client = commands.Bot(command_prefix = command_prefix, description='A bot projekt for SWCD')

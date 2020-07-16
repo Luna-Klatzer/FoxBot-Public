@@ -1,1 +1,3 @@
  # File where the console is partly logged. So only important stuff will be saved
+---- CONSOLE ---- [2020-07-16 23:45:56 FoxBot#1416] Starting from TOKEN...
+---- CONSOLE ---- [2020-07-16 23:45:56 FoxBot#1416] Bot started successfully!
