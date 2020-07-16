@@ -1,0 +1,1 @@
+# The file where the erros are saved and the login of the cog-files. So you can see if files logged in and worked like wanted or not. 

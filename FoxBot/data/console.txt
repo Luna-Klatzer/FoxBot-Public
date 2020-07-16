@@ -1,0 +1,1 @@
+ # File where the console is partly logged. So only important stuff will be saved
